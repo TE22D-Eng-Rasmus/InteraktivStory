@@ -1,0 +1,15 @@
+C:\Users\rasmus.eng\programering\InteraktivStory\InteraktivStory\bin\Debug\net6.0\InteraktivStory.exe
+C:\Users\rasmus.eng\programering\InteraktivStory\InteraktivStory\bin\Debug\net6.0\InteraktivStory.deps.json
+C:\Users\rasmus.eng\programering\InteraktivStory\InteraktivStory\bin\Debug\net6.0\InteraktivStory.runtimeconfig.json
+C:\Users\rasmus.eng\programering\InteraktivStory\InteraktivStory\bin\Debug\net6.0\InteraktivStory.dll
+C:\Users\rasmus.eng\programering\InteraktivStory\InteraktivStory\bin\Debug\net6.0\InteraktivStory.pdb
+C:\Users\rasmus.eng\programering\InteraktivStory\InteraktivStory\obj\Debug\net6.0\InteraktivStory.csproj.AssemblyReference.cache
+C:\Users\rasmus.eng\programering\InteraktivStory\InteraktivStory\obj\Debug\net6.0\InteraktivStory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasmus.eng\programering\InteraktivStory\InteraktivStory\obj\Debug\net6.0\InteraktivStory.AssemblyInfoInputs.cache
+C:\Users\rasmus.eng\programering\InteraktivStory\InteraktivStory\obj\Debug\net6.0\InteraktivStory.AssemblyInfo.cs
+C:\Users\rasmus.eng\programering\InteraktivStory\InteraktivStory\obj\Debug\net6.0\InteraktivStory.csproj.CoreCompileInputs.cache
+C:\Users\rasmus.eng\programering\InteraktivStory\InteraktivStory\obj\Debug\net6.0\InteraktivStory.dll
+C:\Users\rasmus.eng\programering\InteraktivStory\InteraktivStory\obj\Debug\net6.0\refint\InteraktivStory.dll
+C:\Users\rasmus.eng\programering\InteraktivStory\InteraktivStory\obj\Debug\net6.0\InteraktivStory.pdb
+C:\Users\rasmus.eng\programering\InteraktivStory\InteraktivStory\obj\Debug\net6.0\InteraktivStory.genruntimeconfig.cache
+C:\Users\rasmus.eng\programering\InteraktivStory\InteraktivStory\obj\Debug\net6.0\ref\InteraktivStory.dll
